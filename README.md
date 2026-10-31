@@ -24,8 +24,8 @@ Welcome to the Little Lemon Restaurant Booking System! This project is the culmi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/meta-thefullstack-course.git
-   cd meta-thefullstack-course
+   git clone https://github.com/harshal-023/meta-backend-capstone.git
+   cd meta-backend-capstone
    pipenv shell
    pipenv install
    python manage.py makemigrations
